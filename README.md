@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_LOGO_LINK_HERE" width="160" alt="BigPattyOG Logo"/>
+  <img src="logo.png" width="160" alt="BigPattyOG Logo"/>
 </p>
 
 <h1 align="center">Pat</h1>

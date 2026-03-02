@@ -69,10 +69,6 @@ Azure & Cloud Infrastructure
 
 ## Wise words
 
-<p align="left">
-  <img src="meme.png" width="160" alt="Test in Prod Meme"/>
-</p>
+Real Men Test in Prod
 
 ---
-
-> Build it. Break it. Fix it. Understand it.

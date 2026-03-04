@@ -38,6 +38,7 @@ My goal is to work in Software Development and become a Microsoft Certified DevO
 ## Certification Progress
 
 ![C# Certification](https://img.shields.io/badge/C%23_Foundations-15%25_Complete-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Microsoft Github Courses](https://img.shields.io/badge/Microsoft_Github_Courses-5%25_Complete-512BD4?style=flat-square)
 
 ---
 
